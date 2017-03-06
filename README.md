@@ -1,1 +1,25 @@
-# Ada-Application-2017-Summer-Essay-Questions
+###Ada Summer 2017 Essay Questions
+
+>Why are you interested in programming? What have you done to expose yourself to programming so far?
+
+I have had an interest in programming since I was little, when I would customize my Neopets page using basic HTML or making small webpages for class projects. My current exposure to programming is similar--I use my basic skills to customize my blog preferences and write short games in Twine. I want to learn how to do more, but have struggled to learn without a clear structure that Ada or a similar code academy would provide. 
+
+A few things pushed me over into actively pursuing programming. The first was dipping my toes into computational chemistry. In my time studying chemistry, I never felt quite like I found my niche. When I learned some of the computational skills, such as building and coding models for supercomputers to analyze, I felt like coding was something I could do as a profession. The second, and more driving push is an increasing desire to work in the video game industry. I’ve always loved video games, ever since I was a kid. While I loved my studies in school and college, they could never match the raw passion I had for the fictional worlds I frequented outside class. I want to create those worlds now, to give other girls the worlds that helped me so much.
+
+> If you are accepted into our program, where do you see your career in 5 years?
+
+In regards to my long-term goals, in five years I hope to be working for a video game company in some capacity. This can take many forms: either as a writer, designer, or developer. Despite the many ways I could create video games, programming is not only my best opportunity to get into a game company, but it will give me the skillset to create my own independent projects.
+
+The video game industry is, diplomatically put, unwelcoming to women and other minorities. A big part of my career goal is to change that, or at least be a voice of some diversity in the industry. If I go the independent route, I can create a space within the industry that is particularly welcoming to those marginalized groups. If I go work for a company, I can be a loud voice advocating for change, with real input into the media they put out how they tell their stories.
+
+> After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community?
+
+I worked in the Whitman chemistry department during most of my time at school. I was the only girl in my lab group, and struggled for years because of the isolation at work. Even though there were other women in the department, there was no network in place to bring us together and support each other. The department seemed to have the view that sexism didn’t exist there because we were in a liberal school and had a number of women as students and professors. They were wrong. The experience made me realize how establishing a support network was necessary. It also made me realize how much intersectional support matters. Many of the women in our department may not have needed the support network as much as I did, but being LGBT and neurodivergent added another layer to the isolation that could have been helped by any support network.
+
+All this is to say that Ada’s mission and commitment to inclusivity and support is one of the main reasons I’m so drawn to Ada. I want to be a part of the support network so others don’t have to suffer in isolation like I did. There are many ways in which I have abundant privilege, and this is a setting where I can use it to bolster others who might not.
+
+> Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?
+
+One of the most important mistakes I made was when I was working as a writing tutor in college. I completely forgot about a group meeting I was supposed to be leading and missed the whole thing. When I realized what happened, I was mortified and wracked with guilt. I send out an email that was just a step above begging my students for forgiveness. After I sent it out, the professor who supervised me called me into her office. She could tell my mistake had really shaken me, so she and I talked about how to appropriately deal with mistakes, and that conversation stuck with me. I learned that the best way to handle mistakes was to give a single, genuine apology and move on and do better. After that, apologizing over and over mutates the situation so it’s about me and makes the people I’m apologizing to feel like they have to comfort or apologize to _me_. Forcing myself to move on after an apology actually makes it more sincere, and it lets me continue and do better instead of dwelling.
+
+If faced with the same situation today, I would send out an email with a simple apology—no excuses or further explanation. I would make sure to be extra flexible and accommodating when scheduling the make up meeting, but once the mistake was fixed and made up for, I would consider the matter closed. The only lasting effects would be personal ones, such as making better use of my calendar and meeting reminders. 
